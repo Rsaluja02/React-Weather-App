@@ -1,3 +1,4 @@
+
 A fully functional Weather Forecast Application built with HTML, CSS, JavaScript, and React!
 
 **Key Features:**
@@ -16,3 +17,4 @@ APIs: One Call Api(OpenWeather) , GeoDB Api
 
 https://github.com/Rsaluja02/React-Weather-App/assets/135031416/1b49d994-c049-40a8-87d7-7bc074bf54d7
 
+permalink: /index.html

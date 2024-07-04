@@ -12,3 +12,7 @@ CSS: Styling the website for an appealing look.
 JavaScript​: Adding interactivity and functionality.
 React: Building a fast, responsive, and scalable front-end.
 APIs: One Call Api(OpenWeather) , GeoDB Api
+
+
+https://github.com/Rsaluja02/React-Weather-App/assets/135031416/1b49d994-c049-40a8-87d7-7bc074bf54d7
+

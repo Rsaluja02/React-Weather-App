@@ -1,4 +1,4 @@
-I'm thrilled to announce my latest web development project - a fully functional Weather Forecast Application built with HTML, CSS, JavaScript, and React!
+A fully functional Weather Forecast Application built with HTML, CSS, JavaScript, and React!
 
 **Key Features:**
 Current weather conditions.
